@@ -1,6 +1,13 @@
 MAVROS
 ======
 
+Modification
+------------
+Modified the code so that only messages from a vehicle with a specifig sys_id (tgt_sys_id in mavros) are published.
+
+For more information, please contact:
+- Alberto Quattrini Li ([email](albertoq@cse.sc.edu), [website](sites.google.com/site/albertoquattrinili/)) 
+
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mavlink/mavros?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 MAVLink extendable communication node for ROS.
